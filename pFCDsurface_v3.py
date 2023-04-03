@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  3 13:17:14 2023
-
-@author: lotte
-"""
 
 import numpy as np
 import pyvista as pv
